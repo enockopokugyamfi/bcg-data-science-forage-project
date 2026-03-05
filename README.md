@@ -70,7 +70,7 @@ Since data science problems rarely have a single correct solution, this allows a
 ├── clean_data_after_eda.csv
 └── data_for_predictions.csv
 ```
-**Note:** The notebooks and files with “Model_Answer” in their names contain the reference solutions provided by BCG. These are intended to illustrate how an industry data science team might approach the same problem. Your own notebooks show my personal reasoning and implementation, allowing comparison with the industry-style approach.
+**Note:** The notebooks and files with “Model_Answer” in their names contain the reference solutions provided by BCG. These are intended to illustrate how an industry data science team might approach the same problem. The others notebooks show my personal reasoning and implementation, allowing comparison with the industry-style approach.
 
 
 
