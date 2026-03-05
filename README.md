@@ -57,17 +57,20 @@ Since data science problems rarely have a single correct solution, this allows a
 
 ## Repository Structure
 ```text
-bcg-data-science-forage-project
 │
 ├── README.md
+├── Task 2 - Model Answer - EDA (2).ipynb
 ├── Task2_eda_notebook.ipynb
+├── Task3_Model_Answer_Feature_Engineering.ipynb
 ├── Task3_feature_engineering.ipynb
+├── Task4_Model_Answer_Modeling.ipynb
 ├── Task4_modeling.ipynb
 ├── client_data.csv
 ├── price_data.csv
 ├── clean_data_after_eda.csv
 └── data_for_predictions.csv
 ```
+**Note:** The notebooks and files with “Model_Answer” in their names contain the reference solutions provided by BCG. These are intended to illustrate how an industry data science team might approach the same problem. Your own notebooks show my personal reasoning and implementation, allowing comparison with the industry-style approach.
 
 
 
