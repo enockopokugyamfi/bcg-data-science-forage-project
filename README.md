@@ -1,8 +1,7 @@
 # bcg-data-science-forage-project
-Data science project completed as part of the BCG Data Science Virtual Experience on Forage. This project focuses on data analysis, feature engineering, and predictive modeling for customer churn.
-
 Disclaimer: This project was completed as part of the BCG Data Science Virtual Experience on Forage. 
 The company "PowerCo" and the datasets used in this project are part of the simulation provided in the program.
+
 
 # Customer Churn Analysis – BCG Data Science Virtual Experience
 
