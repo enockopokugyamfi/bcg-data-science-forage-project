@@ -56,18 +56,18 @@ Since data science problems rarely have a single correct solution, this allows a
 - Jupyter Notebook
 
 ## Repository Structure
+```text
 bcg-data-science-forage-project
 │
-└── README.md
-|
-├── Task2 eda_notebook.ipynb
-├── Task3 feature_engineering.ipynb
-├── Task4 modeling.ipynb
-│
+├── README.md
+├── Task2_eda_notebook.ipynb
+├── Task3_feature_engineering.ipynb
+├── Task4_modeling.ipynb
 ├── client_data.csv
 ├── price_data.csv
-├── clean_data_afer_eda.csv
-├── data_for_predictions.csv
+├── clean_data_after_eda.csv
+└── data_for_predictions.csv
+```
 
 
 
